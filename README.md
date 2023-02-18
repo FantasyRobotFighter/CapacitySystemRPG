@@ -1,4 +1,4 @@
-# CapacitySystemRPG
+# Capacity System SRD
 **SRD for the Capacity TTRPG System**
 
 The Capacity system aims to be a rules-lite game with a crunchy center. It's a personal experiment to change my least favorite mechanics in the majority of table-top RPGs. Many games feel like multiple systems/rules/mechanics bolted onto to each other and often require too much time keeping track of the long lists of feats, traits, items, and spells all of which never feel tied to a character's primary attributes.
