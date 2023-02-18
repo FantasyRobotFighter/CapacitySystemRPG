@@ -6,9 +6,9 @@ The Capacity system aims to be a rules-lite game with a crunchy center. It's a p
 
 **System Goals:**
 
-- Simplify feats, spells, and items into one easy to use system
-- Remove need for difficulty ratings- Player rolls against their own ability and skill scores
-- Remove requirement for GM roles
-- No dump stats
-- No bolted on system mechanics
-- Character attributes all work in unison
+- Simplify feats, spells, and items into one easy to use system.
+- Remove need for difficulty ratings- Player rolls against their own ability and skill scores.
+- Remove requirement for GM roles and or allow for single player play.
+- No dump stats or mechanics that serve rarely used or single purposes.
+- No bolted on system mechanics that do not feel tied to the core rules.
+- Character attributes/ability scores work together and not as separate entities.
